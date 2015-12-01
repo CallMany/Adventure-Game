@@ -1,6 +1,8 @@
-Content\Fonts\Minecraft_font.xnb
 Content\Sprites\Menu\menuBackground.xnb
 Content\Sprites\Player\spritePlayer.xnb
 Content\Sprites\Tiles\Tile2.xnb
 Content\Sprites\Tiles\Tile1.xnb
 Content\Sprites\Player\itemHandler.xnb
+Content\Sprites\Player\BrokenHealth.xnb
+Content\Sprites\Player\Health.xnb
+Content\Fonts\Minecraft_font.xnb

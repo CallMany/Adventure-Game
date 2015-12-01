@@ -1,1 +1,2 @@
 C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGameContent\obj\x86\Debug\AdventureGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGameContent\obj\x86\Debug\AdventureGameContent.contentprojResolveAssemblyReference.cache

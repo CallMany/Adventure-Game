@@ -2,21 +2,12 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>Fonts\Minecraft_font.spritefont</Source>
-      <Name>Fonts\Minecraft_font</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\bin\x86\Debug\Content\Fonts\Minecraft_font.xnb</Output>
-      <Time>2015-10-27T18:24:56.352539+01:00</Time>
-    </Item>
-    <Item>
       <Source>Sprites\Menu\menuBackground.jpg</Source>
       <Name>Sprites\Menu\menuBackground</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Menu\menuBackground.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Menu\menuBackground.xnb</Output>
       <Time>2015-10-27T18:24:20.5+01:00</Time>
     </Item>
     <Item>
@@ -25,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Player\spritePlayer.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Player\spritePlayer.xnb</Output>
       <Time>2015-10-29T14:32:12.7412109+01:00</Time>
     </Item>
     <Item>
@@ -34,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Tiles\Tile2.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Tiles\Tile2.xnb</Output>
       <Time>2015-10-31T11:47:08.3339843+01:00</Time>
     </Item>
     <Item>
@@ -43,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Tiles\Tile1.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Tiles\Tile1.xnb</Output>
       <Time>2015-10-31T11:11:25.8046875+01:00</Time>
     </Item>
     <Item>
@@ -52,8 +43,35 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Player\itemHandler.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Player\itemHandler.xnb</Output>
       <Time>2015-11-29T15:49:47.3035703+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\BrokenHealth.png</Source>
+      <Name>Sprites\Player\BrokenHealth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Player\BrokenHealth.xnb</Output>
+      <Time>2015-11-29T17:31:17.9785156+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Health.png</Source>
+      <Name>Sprites\Player\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\Sprites\Player\Health.xnb</Output>
+      <Time>2015-11-29T17:31:17.9228516+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Minecraft_font.spritefont</Source>
+      <Name>Fonts\Minecraft_font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\Fonts\Minecraft_font.xnb</Output>
+      <Time>2015-10-27T18:24:56.352539+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -62,10 +80,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Dan\documents\visual studio 2015\Projects\AdventureGame\AdventureGame\AdventureGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\GitHub\Adventure-Game\AdventureGame\AdventureGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

@@ -6,7 +6,7 @@ using System.IO;
 
 namespace AdventureGame
 {
-    public class OreGenerater
+    public class OreGenerator
     {
         private List<int[,]> Templates;
         private string filePath;
